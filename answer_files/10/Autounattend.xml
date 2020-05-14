@@ -100,7 +100,8 @@
                 -->
 
                 <!-- Product Key from https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise -->
-                <ProductKey>2FMYP-QCY43-QR9VK-WTVCK
+		<ProductKey>
+		    <Key>4XHGN-J7TVH-CFCFR-3G9TG-RRG6Y</Key>
                     <WillShowUI>Never</WillShowUI>
                 </ProductKey>
             </UserData>
@@ -114,8 +115,8 @@
                     <InstallToAvailablePartition>false</InstallToAvailablePartition>
                     <InstallFrom>
                         <MetaData wcm:action="add">
-                            <Key>/IMAGE/NAME</Key>
-                            <Value>Windows 10 Enterprise Evaluation</Value>
+                            <Key>/IMAGE/Windows 10 Pro</Key>
+                            <Value>Windows 10 Pro</Value>
                         </MetaData>
                     </InstallFrom>
                 </OSImage>

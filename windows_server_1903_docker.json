@@ -166,7 +166,7 @@
     "docker_provider": "ee",
     "docker_version": "19.03.5",
     "headless": "false",
-    "iso_checksum": "F00082EF6BA6FD7A5E99EF9C01958ABD9D6702D7AAD34262E109989E5D9D0027",
+    "iso_checksum": "07b804cc2ad45fd5059380009d2201d10d36b10909d44b99a2337947299333e6",
     "iso_checksum_type": "sha256",
     "iso_url": "https://download.my.visualstudio.com/db/en_windows_server_version_1903_updated_nov_2019_x64_dvd_78832616.iso",
     "manually_download_iso_from": "https://my.visualstudio.com/Downloads?q=windows%20server%201903&pgroup=",
